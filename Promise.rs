@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("YOUR_PROGRAM_ID_HERE");
+declare_id!("ePromice_politics");
 
 #[program]
 pub mod political_promises {
